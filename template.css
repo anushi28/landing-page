@@ -1,0 +1,419 @@
+.head{
+    width: 2000px;
+    height: 80px;
+    background-color: white;
+    color: black;
+    display: flex;
+    gap: 55px;
+   padding-left: 100px;
+   margin-top: 50px;
+   
+
+}
+.react{
+
+    margin-top: 0px;
+    
+}
+
+.anch{
+    text-decoration: none;
+    color: grey;
+    margin-top: 50px;
+   
+    
+    
+}
+.anch:hover{
+
+
+    text-decoration: underline solid 5px;
+    text-decoration-color: blue;
+    
+
+}
+.fb{
+  
+    margin-left: 30px;
+   
+}
+
+/* FIRST BOX */
+
+
+    .second{
+      height: 1280px;
+    
+       
+    }
+
+.box{
+    position:relative;
+    bottom: 890px;
+ 
+ 
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+  font-size: 29px;
+  color: rgb(244, 189, 189);
+}
+
+.btn{
+    position: relative;
+  bottom: 880px;
+  left: 590px;
+  padding: 10px;
+  width: 10%;
+  height: 20px;
+ 
+  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+
+ border-radius: 9px;
+  text-align: center;
+
+
+}
+.a{
+    color: azure;
+    text-decoration: none;
+}
+
+
+
+
+
+
+/* FEATURE STYLING  */
+.feature{
+    height: 360px;
+    width: 100%;
+    background-color: rgb(222, 216, 216);
+ margin-top: -25px;
+   
+}
+.h1{
+    padding-top: 20px;
+    color: black;
+    text-align: center;
+    text-decoration: underline solid 5px;
+    text-decoration-color: blue;
+    border-width: 2px;
+    
+   
+
+}
+.body{
+   
+    width: 250px;
+    background-color: rgb(222, 216, 216);
+    text-align: center;
+    margin-right: 80px;
+    
+}
+.icon{
+    height: 90px;
+    width: 90px;
+    border-radius: 40px;
+    background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+
+    
+}
+
+.container{
+    display: flex;
+    margin-left: 100px;
+
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+
+
+/* ABOUT STYLING */
+
+
+.about{
+    text-decoration: underline solid 5px;
+    text-decoration-color: blue;
+    font-size: 50px;
+
+}
+
+ 
+.image{
+    height: 500px;
+    width: 550px;
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 140px;
+
+} 
+
+.content{
+    height: 550px;
+    width: 550px;
+    background-color: white;
+    position: relative;
+    padding-left: 50px;
+    margin-left: 700px;
+    margin-top: 80px;
+    font-size: 20px;
+
+
+}
+  
+.one{
+    list-style-type: none;
+    padding-left: 20px;
+    display: inline-block;
+   
+}
+.one li::before {
+    content: "\2713"; /* Unicode character for checkmark symbol */
+    color: blue; /* Color of the tick */
+    list-style-position: inside;
+    width: 1em; /* Adjust size as needed */
+    margin-left: -1em; /* Negative margin to overlap with the list item */
+    
+  }
+  
+
+.two {
+    list-style-type: none; 
+    padding-left: 80px;
+    display: inline-block;
+  }
+  
+  .two li::before {
+    content: "\2713"; /* Unicode character for checkmark symbol */
+    color: blue; /* Color of the tick */
+
+    width: 1em; /* Adjust size as needed */
+    margin-left: -1em; /* Negative margin to overlap with the list item */
+  }
+
+
+  /* SERVICE STYLING */
+  .box3{
+    height: 850px;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    color: white;
+    padding-top: 100px;
+    
+  }
+
+.smallbox{
+    display: flex;
+    margin-left: 140px;
+}
+
+  .sixbox{
+    height: 300px;
+    width: 250px;
+    
+   margin-top: 30px;
+  
+ text-align: center;
+ margin-left: 100px;
+
+  }
+
+  .imgbox{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    margin-left: 50px;
+  }
+  
+ .icons{
+    height: 60px;
+    width: 60px;
+    margin-top: 40px;
+    
+}
+
+
+/* GALLERY STYLING */
+
+.box4{
+    
+        height: 850px;
+        width: 100%;
+        text-align: center;
+       background-color: white;
+        color: black;
+        padding-top: 100px;
+     
+        
+      
+}
+  
+.gallery{
+    height: 550px;
+    width: 700px;
+ padding-right: 10px;
+  display: inline;
+    
+   
+   
+}
+.photo{
+    height: 300px;
+    width: 350px;
+
+}
+.photo:hover{
+    background-color: rgb(158, 158, 237);
+}
+
+
+/* CLIENT STYLING */
+
+
+.box5{
+    margin-top: 280px;
+    height: 650px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(239, 233, 233);
+    color: black;
+    padding-top: 60px;
+    
+}
+.finalbox{
+    display: flex;
+}
+.queen{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    margin-left: 80px;
+}
+
+.client{
+    text-decoration: underline solid 5px;
+    text-decoration-color: blue;
+}
+.outerbox{
+   
+/* width: 350px; */
+    display:flex;
+    
+    text-align: justify;
+    gap: 10px;
+   padding-right: 20px;
+    margin-top: 80px;
+
+
+   
+    
+   
+}
+/* .textbox{
+    height: 100px;
+    width: 200px;
+    text-align: justify;
+    margin-left: 100px;
+    font-size: 15px;
+} */
+
+/* TEAM STYLING */
+
+.box6{
+    height: 560px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+}
+.meet{
+    padding-right: 20px;
+}
+.desig{
+    color: gray;
+}
+
+/* LAST PAGE STYLING */
+
+.lastbox{
+    height: 600px;
+    width: 100%;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); 
+    color: white;
+    padding-top: 100px;
+}
+.behind{
+    display: flex;
+   
+}
+.half{
+    margin-left: 100px;
+}
+.last{
+    text-decoration: underline solid 5px;
+    text-decoration-color: rgb(195, 195, 231);
+    
+
+}
+.text{
+    height: 30px;
+    width: 350px;
+    margin-top: 60px;
+    
+   
+}
+.msg{
+    height: 70px;
+    width: 760px;
+
+}
+.formbtn{
+    height: 50px;
+    width: 150px;
+    border-radius: 20%;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    color: white;
+    border-color: azure;
+}
+.secondhalf{
+    color: white;
+   margin-top: 60px;
+   margin-left: 80px;
+}
+.font{
+    height: 20px;
+    width: 20px;
+   
+}
+.word{
+    font-size: 20px;
+   padding-top: 20px;
+}
+.end{
+    margin-top: 120px;
+    margin-left: 650px;
+    font-size: 40px;
+    color: black;
+ 
+}
+
+.finish{
+   
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    color: gray;
+
+}
+.title{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    font-size: 18px;
+   color: blue;
+}

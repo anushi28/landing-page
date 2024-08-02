@@ -1,0 +1,11 @@
+[
+    {"Image" : "https://react-landing-page-template-93ne.vercel.app/img/team/01.jpg","Title" : "John Doe","Designation" : "Director" },
+ 
+
+    {"Image" : "https://react-landing-page-template-93ne.vercel.app/img/team/02.jpg","Title" : "Mike Doe","Designation" : "Senior Designer" },
+
+    {"Image" : "https://react-landing-page-template-93ne.vercel.app/img/team/03.jpg","Title" : "Jane Doe","Designation" : "Senior Designer" },
+
+    {"Image" : "https://react-landing-page-template-93ne.vercel.app/img/team/04.jpg","Title" : "Karen Doe","Designation" : "Project Manager" }
+ 
+]
